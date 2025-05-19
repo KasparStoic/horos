@@ -20,6 +20,8 @@
           
           <!-- Footer links -->
           <div class="flex justify-center mt-8 text-xs text-gray-400 space-x-4">
+            <p class="m-0">Leads managed by Choicism Investments OÜ</p>
+            <span>|</span>
             <NuxtLink to="/privacy" class="hover:text-gray-200">Privacy Policy</NuxtLink>
             <span>|</span>
             <NuxtLink to="/terms" class="hover:text-gray-200">Terms of Service</NuxtLink>
