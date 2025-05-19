@@ -17,6 +17,13 @@
               </div>
               <button type="submit" class="py-3 -ml-3 px-5 text-sm font-medium text-center text-gray-100 rounded-lg border border-gray-900 bg-primary-900 sm:w-fit hover:bg-primary-800">Send message</button>
           </form>
+          
+          <!-- Footer links -->
+          <div class="flex justify-center mt-8 text-xs text-gray-400 space-x-4">
+            <NuxtLink to="/privacy" class="hover:text-gray-200">Privacy Policy</NuxtLink>
+            <span>|</span>
+            <NuxtLink to="/terms" class="hover:text-gray-200">Terms of Service</NuxtLink>
+          </div>
       </div>
     </section>
   </div>
